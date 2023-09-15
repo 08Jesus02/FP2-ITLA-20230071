@@ -18,3 +18,14 @@ C:\Users\USER\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\obj\Debug\C
 C:\Users\USER\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
 C:\Users\USER\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\bin\Debug\Calculadora.exe
 C:\Users\USER\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\20230071\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\20230071\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\20230071\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\20230071\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\20230071\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\20230071\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\20230071\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\20230071\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\20230071\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\20230071\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\20230071\Source\Repos\FP2-ITLA-20230071\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

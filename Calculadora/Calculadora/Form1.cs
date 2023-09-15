@@ -96,9 +96,10 @@ namespace Calculadora
 
         private void btncCambioDeSigno_Click(object sender, EventArgs e)
         {
-            Numero1 = Convert.ToDouble(txtResultado.Text);
-            Numero1 *= -1;
-            txtResultado.Text = Numero1.ToString();
+            Numero2 = Convert.ToDouble(txtResultado.Text);
+
+            Numero2 *= -1;
+            txtResultado.Text = Numero2.ToString();
         }
 
         private void clickOperador(object sender, EventArgs e)
