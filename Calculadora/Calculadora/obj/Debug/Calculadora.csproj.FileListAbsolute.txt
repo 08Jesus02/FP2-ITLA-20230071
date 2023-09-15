@@ -1,0 +1,10 @@
+/Users/angelj.soriano/Todo ITLA/C.3/Fundamentos de Programacion 2/FP2-ITLA-20230071/Calculadora/Calculadora/bin/Debug/Calculadora.exe.config
+/Users/angelj.soriano/Todo ITLA/C.3/Fundamentos de Programacion 2/FP2-ITLA-20230071/Calculadora/Calculadora/bin/Debug/Calculadora.exe
+/Users/angelj.soriano/Todo ITLA/C.3/Fundamentos de Programacion 2/FP2-ITLA-20230071/Calculadora/Calculadora/bin/Debug/Calculadora.pdb
+/Users/angelj.soriano/Todo ITLA/C.3/Fundamentos de Programacion 2/FP2-ITLA-20230071/Calculadora/Calculadora/obj/Debug/Calculadora.csproj.AssemblyReference.cache
+/Users/angelj.soriano/Todo ITLA/C.3/Fundamentos de Programacion 2/FP2-ITLA-20230071/Calculadora/Calculadora/obj/Debug/Calculadora.Form1.resources
+/Users/angelj.soriano/Todo ITLA/C.3/Fundamentos de Programacion 2/FP2-ITLA-20230071/Calculadora/Calculadora/obj/Debug/Calculadora.Properties.Resources.resources
+/Users/angelj.soriano/Todo ITLA/C.3/Fundamentos de Programacion 2/FP2-ITLA-20230071/Calculadora/Calculadora/obj/Debug/Calculadora.csproj.GenerateResource.cache
+/Users/angelj.soriano/Todo ITLA/C.3/Fundamentos de Programacion 2/FP2-ITLA-20230071/Calculadora/Calculadora/obj/Debug/Calculadora.csproj.CoreCompileInputs.cache
+/Users/angelj.soriano/Todo ITLA/C.3/Fundamentos de Programacion 2/FP2-ITLA-20230071/Calculadora/Calculadora/obj/Debug/Calculadora.exe
+/Users/angelj.soriano/Todo ITLA/C.3/Fundamentos de Programacion 2/FP2-ITLA-20230071/Calculadora/Calculadora/obj/Debug/Calculadora.pdb

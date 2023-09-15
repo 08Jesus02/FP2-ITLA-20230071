@@ -65,7 +65,9 @@ namespace Calculadora
         private void agregarNumero(string numero)
         {
             if (txtResultado.Text == "0")
-                txtResultado.Text = 
+                txtResultado.Text = "";
+
+            txtResultado.Text += numero;
         }
     }
 }
