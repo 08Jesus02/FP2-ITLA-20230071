@@ -34,7 +34,7 @@ namespace Calculadora_de_Raiz_Cuadrada
 
                 else
                 {
-                    // Calcular la raíz cuadrada utilizando la función personalizada
+                    // Calcular la raíz cuadrada llamando a la funsion CalcularRaizCuadrada
                     double raizCuadrada = CalcularRaizCuadrada();
 
                     string resultadoFormateado = raizCuadrada.ToString("0.00", CultureInfo.InvariantCulture);
