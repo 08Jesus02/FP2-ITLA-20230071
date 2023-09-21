@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculadora de Raiz Cuadrada/1.0.0": {
+        "runtime": {
+          "Calculadora de Raiz Cuadrada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora de Raiz Cuadrada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\bin\Debug\net6.0-windows\Calculadora de Raiz Cuadrada.exe
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\bin\Debug\net6.0-windows\Calculadora de Raiz Cuadrada.deps.json
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\bin\Debug\net6.0-windows\Calculadora de Raiz Cuadrada.runtimeconfig.json
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\bin\Debug\net6.0-windows\Calculadora de Raiz Cuadrada.dll
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\bin\Debug\net6.0-windows\Calculadora de Raiz Cuadrada.pdb
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\obj\Debug\net6.0-windows\Calculadora_de_Raiz_Cuadrada.Form1.resources
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\obj\Debug\net6.0-windows\Calculadora de Raiz Cuadrada.csproj.GenerateResource.cache
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\obj\Debug\net6.0-windows\Calculadora de Raiz Cuadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\obj\Debug\net6.0-windows\Calculadora de Raiz Cuadrada.AssemblyInfoInputs.cache
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\obj\Debug\net6.0-windows\Calculadora de Raiz Cuadrada.AssemblyInfo.cs
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\obj\Debug\net6.0-windows\Calculadora de Raiz Cuadrada.csproj.CoreCompileInputs.cache
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\obj\Debug\net6.0-windows\Calculadora de Raiz Cuadrada.dll
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\obj\Debug\net6.0-windows\refint\Calculadora de Raiz Cuadrada.dll
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\obj\Debug\net6.0-windows\Calculadora de Raiz Cuadrada.pdb
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\obj\Debug\net6.0-windows\Calculadora de Raiz Cuadrada.genruntimeconfig.cache
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\Calculadora de Raiz Cuadrada\obj\Debug\net6.0-windows\ref\Calculadora de Raiz Cuadrada.dll
