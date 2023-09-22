@@ -35,7 +35,7 @@ namespace Calculadora_de_Raiz_Cuadrada
                 else
                 {
                     // Calcular la raíz cuadrada llamando a la funsion CalcularRaizCuadrada
-                    double raizCuadrada = CalcularRaizCuadrada();
+                    double raizCuadrada = CalcularRaizCuadrada(Numero);
 
                     string resultadoFormateado = raizCuadrada.ToString("0.00", CultureInfo.InvariantCulture);
 
@@ -46,18 +46,19 @@ namespace Calculadora_de_Raiz_Cuadrada
             }
         }
 
-        private double CalcularRaizCuadrada()
+        private double CalcularRaizCuadrada(double x)
         {
 
-            // Algoritmo de Newton-Raphson para calcular la raíz cuadrada
-            double estimacion = Numero / 2;
-            double tolerancia = 0.00001;
+            double b = x;
+            uint contador = 0;
 
-            while (Math.Abs(estimacion * estimacion - Numero) > tolerancia)
+            while (!(b == (x / b)) && (contador < 99))
             {
-                estimacion = (estimacion + Numero / estimacion) / 2;
+                b = 0.5 * ((x / b) + b);
+                contador++;
             }
-            return estimacion;
+
+            return b;
         }
 
         private void btnBorrarTodo_Click(object sender, EventArgs e)
