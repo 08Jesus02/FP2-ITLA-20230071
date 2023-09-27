@@ -1,0 +1,16 @@
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\bin\Debug\net6.0-windows\App de Loteria.exe
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\bin\Debug\net6.0-windows\App de Loteria.deps.json
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\bin\Debug\net6.0-windows\App de Loteria.runtimeconfig.json
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\bin\Debug\net6.0-windows\App de Loteria.dll
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\bin\Debug\net6.0-windows\App de Loteria.pdb
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\obj\Debug\net6.0-windows\App_de_Loteria.Form1.resources
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\obj\Debug\net6.0-windows\App de Loteria.csproj.GenerateResource.cache
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\obj\Debug\net6.0-windows\App de Loteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\obj\Debug\net6.0-windows\App de Loteria.AssemblyInfoInputs.cache
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\obj\Debug\net6.0-windows\App de Loteria.AssemblyInfo.cs
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\obj\Debug\net6.0-windows\App de Loteria.csproj.CoreCompileInputs.cache
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\obj\Debug\net6.0-windows\App de Loteria.dll
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\obj\Debug\net6.0-windows\refint\App de Loteria.dll
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\obj\Debug\net6.0-windows\App de Loteria.pdb
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\obj\Debug\net6.0-windows\App de Loteria.genruntimeconfig.cache
+C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\App de Loteria\obj\Debug\net6.0-windows\ref\App de Loteria.dll
