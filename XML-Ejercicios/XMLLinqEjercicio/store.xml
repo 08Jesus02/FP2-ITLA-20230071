@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<store>
+	<beers>
+		<beer> style="pilsner">Corona</beer>
+		<beer> style="dark ale">Kasteel</beer>
+		<beer> style="poster">London Porter</beer>
+		<beer> style="stout">Duble chocolate</beer>
+		<beer> style="porter">Tictus</beer>
+	</beers>
+</store>

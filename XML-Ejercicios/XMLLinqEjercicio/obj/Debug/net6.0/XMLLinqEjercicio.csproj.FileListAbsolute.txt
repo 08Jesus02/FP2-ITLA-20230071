@@ -1,0 +1,28 @@
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XMLLinqEjercicio/bin/Debug/net6.0/XMLLinqEjercicio.exe
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XMLLinqEjercicio/bin/Debug/net6.0/XMLLinqEjercicio.deps.json
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XMLLinqEjercicio/bin/Debug/net6.0/XMLLinqEjercicio.runtimeconfig.json
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XMLLinqEjercicio/bin/Debug/net6.0/XMLLinqEjercicio.dll
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XMLLinqEjercicio/bin/Debug/net6.0/XMLLinqEjercicio.pdb
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/XMLLinqEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/XMLLinqEjercicio.AssemblyInfoInputs.cache
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/XMLLinqEjercicio.AssemblyInfo.cs
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/XMLLinqEjercicio.csproj.CoreCompileInputs.cache
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/XMLLinqEjercicio.dll
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/refint/XMLLinqEjercicio.dll
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/XMLLinqEjercicio.pdb
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/XMLLinqEjercicio.genruntimeconfig.cache
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/ref/XMLLinqEjercicio.dll
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XMLLinqEjercicio/bin/Debug/net6.0/XMLLinqEjercicio
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XMLLinqEjercicio/bin/Debug/net6.0/XMLLinqEjercicio.deps.json
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XMLLinqEjercicio/bin/Debug/net6.0/XMLLinqEjercicio.runtimeconfig.json
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XMLLinqEjercicio/bin/Debug/net6.0/XMLLinqEjercicio.dll
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XMLLinqEjercicio/bin/Debug/net6.0/XMLLinqEjercicio.pdb
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/XMLLinqEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/XMLLinqEjercicio.AssemblyInfoInputs.cache
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/XMLLinqEjercicio.AssemblyInfo.cs
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/XMLLinqEjercicio.csproj.CoreCompileInputs.cache
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/XMLLinqEjercicio.dll
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/refint/XMLLinqEjercicio.dll
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/XMLLinqEjercicio.pdb
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/XMLLinqEjercicio.genruntimeconfig.cache
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XMLLinqEjercicio/obj/Debug/net6.0/ref/XMLLinqEjercicio.dll
