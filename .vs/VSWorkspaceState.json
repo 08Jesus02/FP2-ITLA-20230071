@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\XML-Ejercicios",
+    "\\XML-Ejercicios\\XMLConcesionarioEjer",
+    "\\XML-Ejercicios\\XMLConcesionarioEjer\\bin\\Debug\\net7.0"
   ],
-  "SelectedNode": "\\Calculadora.sln",
+  "SelectedNode": "\\XML-Ejercicios\\XMLConcesionarioEjer\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
