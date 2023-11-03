@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\XMLConcesionarioEjer",
+    "\\XMLConcesionarioEjer\\bin",
+    "\\XMLConcesionarioEjer\\bin\\Debug"
   ],
-  "SelectedNode": "\\XMLLinqEjercicio",
+  "SelectedNode": "\\XMLConcesionarioEjer\\bin\\Debug\\Concesionario.xml",
   "PreviewInSolutionExplorer": false
 }

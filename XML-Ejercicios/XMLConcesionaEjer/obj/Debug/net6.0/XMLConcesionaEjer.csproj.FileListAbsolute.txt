@@ -1,0 +1,15 @@
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\obj\Debug\net6.0\XMLConcesionaEjer.csproj.AssemblyReference.cache
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\obj\Debug\net6.0\XMLConcesionaEjer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\obj\Debug\net6.0\XMLConcesionaEjer.AssemblyInfoInputs.cache
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\obj\Debug\net6.0\XMLConcesionaEjer.AssemblyInfo.cs
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\obj\Debug\net6.0\XMLConcesionaEjer.csproj.CoreCompileInputs.cache
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\bin\Debug\net6.0\XMLConcesionaEjer.exe
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\bin\Debug\net6.0\XMLConcesionaEjer.deps.json
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\bin\Debug\net6.0\XMLConcesionaEjer.runtimeconfig.json
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\bin\Debug\net6.0\XMLConcesionaEjer.dll
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\bin\Debug\net6.0\XMLConcesionaEjer.pdb
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\obj\Debug\net6.0\XMLConcesionaEjer.dll
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\obj\Debug\net6.0\refint\XMLConcesionaEjer.dll
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\obj\Debug\net6.0\XMLConcesionaEjer.pdb
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\obj\Debug\net6.0\XMLConcesionaEjer.genruntimeconfig.cache
+C:\Users\20230071\source\repos\XMLConcesionaEjer\XMLConcesionaEjer\obj\Debug\net6.0\ref\XMLConcesionaEjer.dll
