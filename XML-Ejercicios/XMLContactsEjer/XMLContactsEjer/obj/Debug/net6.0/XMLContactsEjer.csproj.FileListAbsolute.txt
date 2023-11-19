@@ -1,0 +1,4 @@
+C:\Users\Angel Brito\source\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Brito\source\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.AssemblyInfoInputs.cache
+C:\Users\Angel Brito\source\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.AssemblyInfo.cs
+C:\Users\Angel Brito\source\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.csproj.CoreCompileInputs.cache
