@@ -1,7 +1,5 @@
 ﻿using System;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Xml;
 
 namespace XMLContacs
@@ -10,12 +8,12 @@ namespace XMLContacs
     {
         static void Main(string[] args)
         {
-            UsingXMLWriter();
+            UsingXmlWriter();
         }
 
-        private static void UsingXMLWriter()
+        private static void UsingXmlWriter()
         {
-            XmlWriter xmlWriter = xmlWriter.Create("UsingXmlWriter.xml");
+            XmlWriter xmlWriter = XmlWriter.Create("UsingXmlWriter.xml");
 
             xmlWriter.WriteStartDocument();
 
@@ -28,8 +26,8 @@ namespace XMLContacs
 
             xmlWriter.WriteStartElement("Contact");
             xmlWriter.WriteAttributeString("Phone", "8097817346");
-            xmlWriter.WhiteAttributeString("WorkPhone", "8095789235");
-            xmlWriter.WriterString("Toretto");
+            xmlWriter.WriteAttributeString("WorkPhone", "8095789235");
+            xmlWriter.WriteString("Toretto");
 
             xmlWriter.WriteEndDocument();
             xmlWriter.Close();
