@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EC43D207-DEF8-41C6-8742-B71894097802}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../XMLConcesionaEjer/Program.cs">
+    <Files>
+      <File FileName="../XMLConcesionaEjer/Program.cs" Line="6" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XMLContactsEjer">
+            <Node name="XMLContactsEjer">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XMLContactsEjer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -8,26 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\20230071\\.nuget\\packages\\": {}
+    "/Users/angelj.soriano/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\20230071\\source\\repos\\FP2-ITLA-20230071\\XML-Ejercicios\\XMLContactsEjer\\XMLContactsEjer\\XMLContactsEjer.csproj",
+      "projectUniqueName": "/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/XMLContactsEjer.csproj",
       "projectName": "XMLContactsEjer",
-      "projectPath": "C:\\Users\\20230071\\source\\repos\\FP2-ITLA-20230071\\XML-Ejercicios\\XMLContactsEjer\\XMLContactsEjer\\XMLContactsEjer.csproj",
-      "packagesPath": "C:\\Users\\20230071\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\20230071\\source\\repos\\FP2-ITLA-20230071\\XML-Ejercicios\\XMLContactsEjer\\XMLContactsEjer\\obj\\",
+      "projectPath": "/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/XMLContactsEjer.csproj",
+      "packagesPath": "/Users/angelj.soriano/.nuget/packages/",
+      "outputPath": "/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\20230071\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/angelj.soriano/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,7 +50,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

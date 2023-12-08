@@ -1,18 +1,32 @@
-C:\Users\Angel Brito\source\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Angel Brito\source\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.AssemblyInfoInputs.cache
-C:\Users\Angel Brito\source\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.AssemblyInfo.cs
-C:\Users\Angel Brito\source\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.csproj.CoreCompileInputs.cache
-C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.AssemblyInfoInputs.cache
-C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.AssemblyInfo.cs
-C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.csproj.CoreCompileInputs.cache
-C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\bin\Debug\net6.0\XMLContactsEjer.exe
-C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\bin\Debug\net6.0\XMLContactsEjer.deps.json
-C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\bin\Debug\net6.0\XMLContactsEjer.runtimeconfig.json
-C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\bin\Debug\net6.0\XMLContactsEjer.dll
-C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\bin\Debug\net6.0\XMLContactsEjer.pdb
-C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.dll
-C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\refint\XMLContactsEjer.dll
-C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.pdb
-C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\XMLContactsEjer.genruntimeconfig.cache
-C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\XML-Ejercicios\XMLContactsEjer\XMLContactsEjer\obj\Debug\net6.0\ref\XMLContactsEjer.dll
+C:/Users/Angel Brito/source/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Angel Brito/source/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.AssemblyInfoInputs.cache
+C:/Users/Angel Brito/source/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.AssemblyInfo.cs
+C:/Users/Angel Brito/source/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.csproj.CoreCompileInputs.cache
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.AssemblyInfoInputs.cache
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.AssemblyInfo.cs
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.csproj.CoreCompileInputs.cache
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/bin/Debug/net6.0/XMLContactsEjer.exe
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/bin/Debug/net6.0/XMLContactsEjer.deps.json
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/bin/Debug/net6.0/XMLContactsEjer.runtimeconfig.json
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/bin/Debug/net6.0/XMLContactsEjer.dll
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/bin/Debug/net6.0/XMLContactsEjer.pdb
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.dll
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/obj/Debug/net6.0/refint/XMLContactsEjer.dll
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.pdb
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.genruntimeconfig.cache
+C:/Users/Angel Brito/source/repos/FP2-ITLA-20230071/XML-Ejercicios/XMLContactsEjer/XMLContactsEjer/obj/Debug/net6.0/ref/XMLContactsEjer.dll
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/bin/Debug/net6.0/XMLContactsEjer
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/bin/Debug/net6.0/XMLContactsEjer.deps.json
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/bin/Debug/net6.0/XMLContactsEjer.runtimeconfig.json
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/bin/Debug/net6.0/XMLContactsEjer.dll
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/bin/Debug/net6.0/XMLContactsEjer.pdb
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.AssemblyInfoInputs.cache
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.AssemblyInfo.cs
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.csproj.CoreCompileInputs.cache
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.dll
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/obj/Debug/net6.0/refint/XMLContactsEjer.dll
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.pdb
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/obj/Debug/net6.0/XMLContactsEjer.genruntimeconfig.cache
+/Users/angelj.soriano/Todo ITLA/3/Fundamentos de Programacion 2/FP2-ITLA-20230071/XML-Ejercicios/XmlDocumentyWriterEjer/XMLContactsEjer/obj/Debug/net6.0/ref/XMLContactsEjer.dll
