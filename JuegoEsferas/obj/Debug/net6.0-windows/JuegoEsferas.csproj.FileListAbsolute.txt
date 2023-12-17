@@ -15,3 +15,20 @@ C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.
 C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\JuegoEsferas.pdb
 C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\JuegoEsferas.genruntimeconfig.cache
 C:\Users\Angel Brito\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\ref\JuegoEsferas.dll
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\bin\Debug\net6.0-windows\JuegoEsferas.exe
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\bin\Debug\net6.0-windows\JuegoEsferas.deps.json
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\bin\Debug\net6.0-windows\JuegoEsferas.runtimeconfig.json
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\bin\Debug\net6.0-windows\JuegoEsferas.dll
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\bin\Debug\net6.0-windows\JuegoEsferas.pdb
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\JuegoEsferas.Form1.resources
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\JuegoEsferas.Properties.Resources.resources
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\JuegoEsferas.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\JuegoEsferas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\JuegoEsferas.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\JuegoEsferas.AssemblyInfo.cs
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\JuegoEsferas.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\JuegoEsferas.dll
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\refint\JuegoEsferas.dll
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\JuegoEsferas.pdb
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\JuegoEsferas.genruntimeconfig.cache
+C:\Users\USER\source\repos\FP2-ITLA-20230071\JuegoEsferas\obj\Debug\net6.0-windows\ref\JuegoEsferas.dll

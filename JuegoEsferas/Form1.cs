@@ -38,7 +38,6 @@ namespace JuegoEsferas
                 int MovimientoY = Lista[i].Location.Y + Velocidad;
                 Lista[i].Location = new Point(Lista[i].Location.X, MovimientoY);
 
-                // Puedes agregar una impresión en la consola para verificar la posición
                 Console.WriteLine($"Pelota {i}: X={Lista[i].Location.X}, Y={Lista[i].Location.Y}");
             }
         }
