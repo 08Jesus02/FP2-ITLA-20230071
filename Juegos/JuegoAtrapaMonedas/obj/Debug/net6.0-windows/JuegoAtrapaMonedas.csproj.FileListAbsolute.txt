@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\bin\Debug\net6.0-windows\JuegoAtrapaMonedas.exe
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\bin\Debug\net6.0-windows\JuegoAtrapaMonedas.deps.json
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\bin\Debug\net6.0-windows\JuegoAtrapaMonedas.runtimeconfig.json
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\bin\Debug\net6.0-windows\JuegoAtrapaMonedas.dll
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\bin\Debug\net6.0-windows\JuegoAtrapaMonedas.pdb
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\obj\Debug\net6.0-windows\JuegoAtrapaMonedas.Form1.resources
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\obj\Debug\net6.0-windows\JuegoAtrapaMonedas.Properties.Resources.resources
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\obj\Debug\net6.0-windows\JuegoAtrapaMonedas.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\obj\Debug\net6.0-windows\JuegoAtrapaMonedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\obj\Debug\net6.0-windows\JuegoAtrapaMonedas.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\obj\Debug\net6.0-windows\JuegoAtrapaMonedas.AssemblyInfo.cs
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\obj\Debug\net6.0-windows\JuegoAtrapaMonedas.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\obj\Debug\net6.0-windows\JuegoAtrapaMonedas.dll
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\obj\Debug\net6.0-windows\refint\JuegoAtrapaMonedas.dll
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\obj\Debug\net6.0-windows\JuegoAtrapaMonedas.pdb
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\obj\Debug\net6.0-windows\JuegoAtrapaMonedas.genruntimeconfig.cache
+C:\Users\USER\source\repos\FP2-ITLA-20230071\Juegos\JuegoAtrapaMonedas\obj\Debug\net6.0-windows\ref\JuegoAtrapaMonedas.dll
