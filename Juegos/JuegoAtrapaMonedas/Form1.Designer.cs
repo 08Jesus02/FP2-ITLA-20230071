@@ -103,12 +103,27 @@
             // 
             pictureBox4.BackColor = Color.Transparent;
             pictureBox4.Image = Properties.Resources.btnStart;
-            pictureBox4.Location = new Point(475, 303);
+            pictureBox4.Location = new Point(470, 300);
             pictureBox4.Name = "pictureBox4";
-            pictureBox4.Size = new Size(64, 55);
+            pictureBox4.Size = new Size(71, 58);
             pictureBox4.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox4.TabIndex = 6;
             pictureBox4.TabStop = false;
+            // 
+            // timer1
+            // 
+            timer1.Enabled = true;
+            timer1.Interval = 1;
+            // 
+            // timer2
+            // 
+            timer2.Enabled = true;
+            timer2.Interval = 1;
+            // 
+            // timer3
+            // 
+            timer3.Enabled = true;
+            timer3.Interval = 1;
             // 
             // Form1
             // 
