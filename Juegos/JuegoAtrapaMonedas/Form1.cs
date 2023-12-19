@@ -52,7 +52,7 @@ namespace JuegoAtrapaMonedas
         {
             String FichaSeleccionada = "";
 
-            int posicionDeDetencion = -10; // Establece la posición de detención deseada
+            int posicionDeDetencion = -10;
 
             for (int i = 0; i < Lista.Count; i++)
             {
