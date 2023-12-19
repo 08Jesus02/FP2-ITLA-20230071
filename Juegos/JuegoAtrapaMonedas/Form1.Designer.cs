@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            components = new System.ComponentModel.Container();
             panel1 = new Panel();
             panel2 = new Panel();
             panel3 = new Panel();
@@ -36,6 +36,9 @@
             pictureBox2 = new PictureBox();
             pictureBox3 = new PictureBox();
             pictureBox4 = new PictureBox();
+            timer1 = new System.Windows.Forms.Timer(components);
+            timer2 = new System.Windows.Forms.Timer(components);
+            timer3 = new System.Windows.Forms.Timer(components);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
@@ -66,40 +69,44 @@
             // pictureBox1
             // 
             pictureBox1.BackColor = Color.Transparent;
-            pictureBox1.Location = new Point(71, 347);
+            pictureBox1.Image = Properties.Resources.btnPararVerdeDesactio;
+            pictureBox1.Location = new Point(68, 347);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(100, 50);
-            pictureBox1.SizeMode = PictureBoxSizeMode.AutoSize;
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox1.TabIndex = 3;
             pictureBox1.TabStop = false;
             // 
             // pictureBox2
             // 
             pictureBox2.BackColor = Color.Transparent;
-            pictureBox2.Location = new Point(325, 347);
+            pictureBox2.Image = Properties.Resources.btnPararAzulDesactio;
+            pictureBox2.Location = new Point(318, 347);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(100, 50);
-            pictureBox2.SizeMode = PictureBoxSizeMode.AutoSize;
+            pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox2.TabIndex = 4;
             pictureBox2.TabStop = false;
             // 
             // pictureBox3
             // 
             pictureBox3.BackColor = Color.Transparent;
-            pictureBox3.Location = new Point(192, 347);
+            pictureBox3.Image = Properties.Resources.btnPararRojoDesactio;
+            pictureBox3.Location = new Point(198, 347);
             pictureBox3.Name = "pictureBox3";
             pictureBox3.Size = new Size(100, 50);
-            pictureBox3.SizeMode = PictureBoxSizeMode.AutoSize;
+            pictureBox3.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox3.TabIndex = 5;
             pictureBox3.TabStop = false;
             // 
             // pictureBox4
             // 
             pictureBox4.BackColor = Color.Transparent;
-            pictureBox4.Location = new Point(473, 300);
+            pictureBox4.Image = Properties.Resources.btnStart;
+            pictureBox4.Location = new Point(475, 303);
             pictureBox4.Name = "pictureBox4";
             pictureBox4.Size = new Size(64, 55);
-            pictureBox4.SizeMode = PictureBoxSizeMode.AutoSize;
+            pictureBox4.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox4.TabIndex = 6;
             pictureBox4.TabStop = false;
             // 
@@ -107,7 +114,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImage = Properties.Resources.FondoTraga;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(774, 501);
             Controls.Add(pictureBox4);
@@ -125,7 +132,6 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
@@ -137,5 +143,8 @@
         private PictureBox pictureBox2;
         private PictureBox pictureBox3;
         private PictureBox pictureBox4;
+        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Timer timer2;
+        private System.Windows.Forms.Timer timer3;
     }
 }
